@@ -1,6 +1,6 @@
 <img align="right" src="https://octodex.github.com/images/nyantocat.gif" width="200" alt="Nyantocat" />
 
-Junior developer working on Linux systems and network security appliances.
+Junior developer working on Linux systems.
 
 [![Blog](https://img.shields.io/badge/Blog-sj.log-222222?style=flat-square&logo=githubpages&logoColor=white)](https://yababaina.github.io)
 [![Email](https://img.shields.io/badge/Email-vmsterclam@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vmsterclam@gmail.com)
