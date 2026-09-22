@@ -17,4 +17,7 @@ Junior developer working on Linux systems and network security appliances.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fluent Bit 로그 파이프라인 대용량 유입 테스트: 6.3K logs/s를 Drop 없이](https://yababaina.github.io/logging/fluent-bit-high-volume-log-test/)
+- [350MB 유해사이트 DB를 17MB 인덱스로: MPHF 기반 조회 모듈 설계](https://yababaina.github.io/optimization/harmful-site-db-index-optimization/)
+- [등급 DB 조회 자료구조 벤치마크: vector vs hash table vs MPHF, 그리고 Bloom filter](https://yababaina.github.io/optimization/grade-db-data-structure-benchmark/)
 <!-- BLOG-POST-LIST:END -->
